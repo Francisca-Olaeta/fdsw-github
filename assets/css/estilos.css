@@ -25,6 +25,10 @@ body {
   background-position: center;
 }
 
+.bg {
+  background-color: #9edbd4;
+}
+
 /* Contacto */
 
 #Contacto form label {
